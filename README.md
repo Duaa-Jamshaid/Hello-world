@@ -1,2 +1,3 @@
 # Hello-world
-An initial guide
+
+I'm Duaa Jamshaid, a Physics undergrad. Interested in project Euler 
